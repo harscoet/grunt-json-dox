@@ -1,0 +1,45 @@
+{
+  "name": "grunt-json-dox",
+  "description": "Run dox to generate json files",
+  "version": "0.0.1",
+  "homepage": "https://github.com/harscoet/grunt-json-dox",
+  "author": {
+    "name": "Donovan Harscoët",
+    "email": "donovan.harscoet@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:harscoet/grunt-json-dox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harscoet/grunt-json-dox/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/harscoet/grunt-json-dox/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-clean": "~0.4.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt": "*",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "dox": "*"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
