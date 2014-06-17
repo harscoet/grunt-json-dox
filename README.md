@@ -45,7 +45,7 @@ Please check [dox](https://github.com/visionmedia/dox) options.
 ### Usage Examples
 
 #### Default Options
-In this example, the default options are used (separator between files is ',' and wrap is '[' and ']'
+In this example, the default options are used (separator between files is ',' and wrap is '[' and ']')
 
 ```js
 grunt.initConfig({
