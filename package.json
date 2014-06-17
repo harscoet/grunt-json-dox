@@ -1,7 +1,7 @@
 {
   "name": "grunt-json-dox",
   "description": "Run dox to generate json files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/harscoet/grunt-json-dox",
   "author": {
     "name": "Donovan Harscoet",
